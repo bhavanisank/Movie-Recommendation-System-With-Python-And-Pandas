@@ -6,6 +6,8 @@ This project recommends you the top 10 movies which similar users who have watch
   
   *ratings.csv
 
+  Link for Ratings.csv file: https://files.grouplens.org/datasets/... .
+
 
 # Steps in This Project
  *Reading in our movie data with pandas
